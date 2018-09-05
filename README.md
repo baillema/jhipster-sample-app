@@ -1,3 +1,5 @@
+This is a Jhipster test, if you want to clone the original one, see the forked project jhipster/jhipster-sample-app 
+
 # jhipsterSampleApplication
 This application was generated using JHipster 5.3.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.3.0](https://www.jhipster.tech/documentation-archive/v5.3.0).
 
